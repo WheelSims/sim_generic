@@ -16,3 +16,6 @@
 [submodule "Haptics/haptics_common"]
 	path = Haptics/haptics_common
 	url = https://github.com/WheelSims/haptics_common.git
+[submodule "Unity/vr_art_source"]
+	path = Unity/vr_art_source
+	url = https://github.com/WheelSims/vr_art_source.git
