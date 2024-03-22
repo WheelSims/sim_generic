@@ -1,3 +1,3 @@
-# sim_base
+# sim_generic
 
-This is the toplevel repository to fork to create a new simulator. New submodules may be added to this repository with time, simply merge back into the simulator fork to have access to these new submodules.
+Simulator template that includes every submodule, not tied to a specific hardware.
