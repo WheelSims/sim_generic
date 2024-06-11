@@ -15,11 +15,17 @@ TagManager:
   - EWPedestrian
   - NSCounter
   - EWCounter
-  - NSPedestrian
   - EWBlock
   - NSBlock
   - Pedestrian
-  - Car
+  - Obstacle
+  - PedLight
+  - PedBlock
+  - FrontCollider
+  - MovingObjectCollider
+  - SpeedZoneCollider
+  - Text
+  - NSPedestrian
   layers:
   - Default
   - TransparentFX
@@ -31,7 +37,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - Ignored by user
   - 
   - 
   - 
