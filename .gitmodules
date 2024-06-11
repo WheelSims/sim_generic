@@ -22,9 +22,6 @@
 [submodule "InstrumentedWheels/instrumented_wheels_common"]
 	path = InstrumentedWheels/instrumented_wheels_common
 	url = https://github.com/WheelSims/instrumented_wheels_common.git
-[submodule "Unity/Assets/assets_common"]
-	path = Unity/Assets/assets_common
-	url = https://github.com/WheelSims/assets_common.git
 [submodule "Unity/Assets/vr_assets_common"]
 	path = Unity/Assets/vr_assets_common
 	url = https://github.com/WheelSims/vr_assets_common.git
