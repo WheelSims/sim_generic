@@ -72,3 +72,5 @@ Unity/[Aa]ssets/[Ss]treamingAssets/aa.meta
 Unity/[Aa]ssets/[Ss]treamingAssets/aa/*
 Unity/Assets/External/HumanFBX
 Unity/Assets/TextMesh Pro
+Unity/Assets/Plugins
+Plugins.meta

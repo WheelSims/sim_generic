@@ -1,0 +1,1 @@
+This is the place to put the UserWheelchair prefab that is specific for a given simulator. Create a variant of the vr_assets_common/User/UserWheelchairTemplate prefab here, and use this variant in your scenes.
